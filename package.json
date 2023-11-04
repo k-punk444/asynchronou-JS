@@ -1,5 +1,5 @@
 {
-  "name": "asynchronou-js",
+  "name": "3-asynchronous-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "superagent": "^8.1.2"
+    "superagent": "^5.0.2"
   }
 }
